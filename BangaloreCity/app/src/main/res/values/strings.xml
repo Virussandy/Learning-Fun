@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Bangalore City</string>
+
+    <string name="coffee_shop">Coffee</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="kid_friendly_places">Kid Places</string>
+    <string name="parks">Parks</string>
+    <string name="shopping_centers">Shopping</string>
+
+    <string name="place_1_title">Third Wave Coffee Roasters</string>
+    <string name="place_1_subtitle">Cozy cafe with artisan coffee and minimal décor</string>
+    <string name="place_1_time">08:00 AM - 10:00 PM</string>
+    <string name="place_1_famous">Specialty brews and minimalist ambiance</string>
+    <string name="place_1_details">Third Wave Coffee Roasters is a favorite among coffee enthusiasts who appreciate high-quality, ethically sourced beans. Located in a calm street of Indiranagar, this cafe is known for its modern interiors, friendly staff, and handcrafted drinks prepared by skilled baristas. The pour-over and Aeropress methods used here truly enhance the flavor of single-origin coffees.Apart from coffee, it\'s a popular spot for working professionals and students thanks to the fast Wi-Fi and peaceful vibe. They also serve light snacks, including avocado toast and croissants, which pair well with their brews. Whether you\'re looking to focus on work or catch up with friends, it\'s a perfect place to unwind.</string>
+
+    <string name="place_2_title">Matteo Coffea, Church Street</string>
+    <string name="place_2_subtitle">Great for people-watching and strong brews</string>
+    <string name="place_2_time">09:00 AM - 11:00 PM</string>
+    <string name="place_2_famous">Strong espresso-based drinks and central location</string>
+    <string name="place_2_details">Matteo Coffea sits at the heart of Church Street, making it a vibrant and easily accessible cafe to hang out or take a break from shopping. It\'s popular for its bold coffee flavors, with cappuccinos and lattes standing out. The outdoor seating area is perfect for people-watching and enjoying Bangalore\'s breezy evenings.Inside, the ambiance is warm with wooden decor and comfortable couches. The cafe serves a good variety of snacks, from cheesy sandwiches to indulgent desserts. It often attracts a creative crowd, and the background music complements the overall relaxing atmosphere.</string>
+
+    <string name="place_3_title">Blue Tokai Coffee Roasters</string>
+    <string name="place_3_subtitle">Excellent single-origin coffee, WiFi-friendly</string>
+    <string name="place_3_time">08:00 AM - 09:00 PM</string>
+    <string name="place_3_famous">Freshly roasted beans and filter coffee bar</string>
+    <string name="place_3_details">Blue Tokai is a haven for coffee lovers who enjoy experimenting with different brewing techniques. Their focus is on freshly roasted beans from Indian farms, and you can even watch the roasting process if you visit on the right day. The baristas are knowledgeable and happy to explain brew methods like French press, Chemex, and cold brew.It\'s a popular remote work spot with ample seating, plug points, and a calm environment. The cafe also sells packaged coffee, making it a go-to destination for those who like to brew at home. They often host small coffee-tasting events and workshops.</string>
+
+    <string name="place_4_title">DYU Art Cafe</string>
+    <string name="place_4_subtitle">Artsy, serene spot with open courtyard and good cold coffee</string>
+    <string name="place_4_time">10:00 AM - 08:30 PM</string>
+    <string name="place_4_famous">Art-filled interiors and peaceful open-air setting</string>
+    <string name="place_4_details">Tucked away in a quiet residential street, DYU Art Cafe is known for its unique fusion of art gallery and cafe. The white-walled interiors, antique furniture, and artwork displays create a homely yet creative atmosphere. Its open courtyard is a serene place to sip on their signature cold coffee or freshly brewed tea.It\'s ideal for solo visitors, couples, and small groups looking for a calm spot to think, write, or read. They serve light meals and desserts, with their chocolate cake being especially popular. The cafe also encourages you to take your time - no one\'s rushing you out here.</string>
+
+    <string name="place_5_title">Hatti Kaapi</string>
+    <string name="place_5_subtitle">Quick and authentic South Indian filter coffee</string>
+    <string name="place_5_time">07:00 AM - 09:00 PM</string>
+    <string name="place_5_famous">Affordable and strong filter coffee in steel tumblers</string>
+    <string name="place_5_details">Hatti Kaapi is a go-to chain for anyone craving authentic South Indian filter coffee served the traditional way - in a steel tumbler and dabara. Known for its strong, rich decoction and affordability, it\'s perfect for a quick energy boost during your commute or shopping break.The outlets are small, clean, and efficient with minimal seating, catering more to takeaway customers. Besides coffee, they serve snacks like idli and vada at some locations. It\'s a true taste of Karnataka\'s coffee culture, now available in multiple convenient spots around the city.</string>
+
+    <!-- Restaurants -->
+    <string name="place_6_title">Toit, Indiranagar</string>
+    <string name="place_6_subtitle">Popular microbrewery with great pizzas and burgers</string>
+    <string name="place_6_time">12:00 PM - 01:00 AM</string>
+    <string name="place_6_famous">Craft beers and wood-fired pizzas</string>
+    <string name="place_6_details">Toit is one of the most iconic microbreweries in Bangalore, located in the buzzing neighborhood of Indiranagar. Known for its lively ambiance, excellent craft beers, and warm lighting, it\'s a crowd favorite for evening hangouts. The in-house brews range from wheat beers to stouts, and the beer tasting platter is a must-try for first-timers.The food menu complements the drinks perfectly with delicious wood-fired pizzas, burgers, and continental fare. It\'s often packed on weekends, so making a reservation is a smart move. Whether you\'re a beer lover or not, Toit delivers a great experience in both food and vibe.</string>
+
+    <string name="place_7_title">Airlines Hotel</string>
+    <string name="place_7_subtitle">Iconic outdoor South Indian restaurant under the trees</string>
+    <string name="place_7_time">07:00 AM - 10:30 PM</string>
+    <string name="place_7_famous">Masala dosas and open-air seating under trees</string>
+    <string name="place_7_details">Airlines Hotel is a nostalgic gem in Bangalore, serving authentic South Indian food in an airy garden setting. It has been around for decades and is loved by locals for its old-world charm. You can sit under massive rain trees and enjoy crispy dosas, hot filter coffee, and traditional meals.The place has retained its simple, no-frills service while delivering consistently good food. It\'s especially popular for breakfast and evening tiffin. If you\'re seeking a peaceful, shaded spot right in the heart of the city, Airlines Hotel is perfect for slow, leisurely meals.</string>
+
+    <string name="place_8_title">Nagarjuna</string>
+    <string name="place_8_subtitle">Famous for its spicy Andhra-style biryani and meals</string>
+    <string name="place_8_time">12:00 PM - 03:30 PM, 07:00 PM - 10:30 PM</string>
+    <string name="place_8_famous">Andhra biryani and fiery vegetarian thali</string>
+    <string name="place_8_details">Nagarjuna is synonymous with Andhra cuisine in Bangalore. Located on Residency Road, this restaurant is popular for its rich, spicy flavors and generous portions. The biryani is particularly sought-after, with perfectly cooked rice, tender meat, and a unique masala blend.Their vegetarian thali is another highlight - served on banana leaves with various curries, pickles, and podi (spice powder). It\'s a great place for spice lovers looking to try authentic regional cuisine. Be ready to sweat a little - the spice levels are not toned down for the faint-hearted!</string>
+
+    <string name="place_9_title">Truffles, Koramangala</string>
+    <string name="place_9_subtitle">Youth favorite for burgers and steaks</string>
+    <string name="place_9_time">11:30 AM - 11:00 PM</string>
+    <string name="place_9_famous">Big burgers and American-style desserts</string>
+    <string name="place_9_details">Truffles is a casual diner-style restaurant that\'s become a hotspot for college students and young professionals. Known for its American-style food - especially juicy burgers, cheesy fries, and sizzling steaks - the place is always buzzing with energy.It\'s affordable, tasty, and quick - making it ideal for group meetups and casual outings. Don’t forget to try their thick shakes and the signature Death by Chocolate dessert. The Koramangala outlet is the most famous, but they have a few others around the city too.</string>
+
+    <string name="place_10_title">Rim Naam, The Oberoi</string>
+    <string name="place_10_subtitle">Upscale dining with a romantic garden setting</string>
+    <string name="place_10_time">12:30 PM - 03:00 PM, 07:00 PM - 11:00 PM</string>
+    <string name="place_10_famous">Fine dining in a water-surrounded pavilion</string>
+    <string name="place_10_details">Rim Naam offers one of the most romantic dining settings in Bangalore, nestled within the luxurious Oberoi hotel grounds. The restaurant is set in a beautiful water pavilion, surrounded by lily ponds and trees - perfect for a date or a special celebration. Their menu includes Indian, Thai, and continental delicacies.The service is impeccable, and the quality of food justifies the premium pricing. Rim Naam is less about a quick meal and more about an experience - a quiet, indulgent escape from the city\'s chaos. Reservations are recommended, especially for weekend evenings.</string>
+
+    <!-- Kid-Friendly Places -->
+
+    <string name="place_11_title">Jawahar Bal Bhavan</string>
+    <string name="place_11_subtitle">Toy train, boating, and play area in Cubbon Park</string>
+    <string name="place_11_time">10:00 AM - 05:30 PM (Closed on Mondays)</string>
+    <string name="place_11_famous">Toy train rides and open play zones</string>
+    <string name="place_11_details">Jawahar Bal Bhavan is a delightful children\'s park nestled inside the lush Cubbon Park. The biggest draw is the vibrant toy train that loops around the garden, offering kids a fun and safe ride through the trees and lawns. The open spaces are perfect for running around, playing games, and enjoying nature in the heart of the city.The park also includes a boating area, basic amusement rides, and a mini theater for cultural programs. It’s affordable and charmingly old-school, making it an ideal weekend outing for families. Parents can relax in the shade while children enjoy themselves in a secure, playful environment.</string>
+
+    <string name="place_12_title">Snow City</string>
+    <string name="place_12_subtitle">Indoor snow park with slides and snowball zones</string>
+    <string name="place_12_time">10:00 AM - 08:30 PM</string>
+    <string name="place_12_famous">Sub-zero snow experience with slides</string>
+    <string name="place_12_details">Snow City is Bangalore\'s answer to snowy fun in a tropical city. This indoor amusement center maintains sub-zero temperatures year-round, creating a winter wonderland where kids (and adults) can enjoy snow fights, sledging, and snow slides. Jackets and boots are provided at entry to keep visitors cozy during their 45-minute session.The venue is great for first-time snow explorers, offering a unique escape from the heat. There\'s also an augmented reality zone, 9D cinema, and photo booths to extend the fun beyond snow. It\'s both educational and entertaining for children who\'ve never experienced real snow.</string>
+
+    <string name="place_13_title">Fun World Amusement Park</string>
+    <string name="place_13_subtitle">Small theme park with rides and water slides</string>
+    <string name="place_13_time">11:00 AM - 07:00 PM</string>
+    <string name="place_13_famous">Mini roller coasters and splash rides</string>
+    <string name="place_13_details">Fun World is a compact amusement park located near Palace Grounds that features a variety of dry and wet rides suited for children and families. The dry section includes kiddie carousels, a mini roller coaster, and spinning rides, while the water park next door offers slides and pools perfect for hot days.The park isn\'t very large, but it packs a lot of entertainment into a manageable space. It\'s a good choice for a half-day family adventure, especially for kids between 4 to 12 years old. Safety precautions are in place and lifeguards are stationed at water rides.</string>
+
+    <string name="place_14_title">Visvesvaraya Science Museum</string>
+    <string name="place_14_subtitle">Interactive exhibits and space shows</string>
+    <string name="place_14_time">09:30 AM - 06:00 PM</string>
+    <string name="place_14_famous">Hands-on science displays and space gallery</string>
+    <string name="place_14_details">The Visvesvaraya Industrial and Technological Museum is a landmark destination for curious young minds. With hands-on exhibits on physics, electronics, and space, it makes learning fun and interactive. Kids can engage with levers, mirrors, and circuits while parents enjoy the nostalgic science zone.The museum also hosts a space gallery and 3D shows that capture the imagination of aspiring astronauts. It\'s one of the best educational outings in Bangalore and manages to keep children engaged for hours. It\'s a must-visit if you\'re looking to blend fun with learning.</string>
+
+    <string name="place_15_title">Lumbini Gardens</string>
+    <string name="place_15_subtitle">Boating, food court, and play area by a lake</string>
+    <string name="place_15_time">11:00 AM - 07:00 PM</string>
+    <string name="place_15_famous">Lake boating and lakeside amusement</string>
+    <string name="place_15_details">Lumbini Gardens is located on the banks of Nagawara Lake and offers a lovely blend of relaxation and recreation. It features pedal boats, small water rides, and a lakeside walking path where kids can stretch their legs. The wide view of the water makes it a peaceful change from the usual playgrounds.There\'s also a food court that serves quick bites and refreshments, along with a kids\'s play zone for younger visitors. While it\'s not a large amusement park, it provides a refreshing, open-air space for families to unwind near the water.</string>
+
+    <!-- Parks -->
+    <string name="place_16_title">Cubbon Park</string>
+    <string name="place_16_subtitle">Central, huge, and peaceful with lots of trees and walking paths</string>
+    <string name="place_16_time">06:00 AM - 06:00 PM</string>
+    <string name="place_16_famous">Wide green lawns and shaded walking trails</string>
+    <string name="place_16_details">Cubbon Park is one of the most iconic green spaces in Bangalore, offering a welcome break from the city\'s fast pace. With over 300 acres of rich flora, shaded paths, and colonial-era buildings scattered around, it’s a popular destination for morning walkers, families, and tourists alike. Children love the small playgrounds and the train ride that loops through the park.Whether you\'re jogging, enjoying a picnic, or simply walking under the canopy of massive trees, Cubbon Park creates a calm and refreshing atmosphere. It\'s also pet-friendly and offers beautiful backdrops for casual photography and quiet reading corners.</string>
+
+    <string name="place_17_title">Lalbagh Botanical Garden</string>
+    <string name="place_17_subtitle">Historic, with a glasshouse and rare plants</string>
+    <string name="place_17_time">06:00 AM - 07:00 PM</string>
+    <string name="place_17_famous">Glasshouse flower shows and botanical diversity</string>
+    <string name="place_17_details">Lalbagh Botanical Garden is one of the oldest gardens in India, originally commissioned by Hyder Ali and later expanded by Tipu Sultan. The garden is renowned for its beautiful glasshouse, which hosts spectacular flower shows twice a year. The massive rock formations, lotus ponds, and century-old trees make it a favorite for nature lovers.Spanning 240 acres, Lalbagh is also a hub for botanical research and education. You can stroll through specialized gardens with medicinal, ornamental, and exotic plant species. The garden is peaceful, scenic, and ideal for families, birdwatchers, and early-morning yoga enthusiasts.</string>
+
+    <string name="place_18_title">JP Park</string>
+    <string name="place_18_subtitle">Lesser-known but spacious and great for joggers</string>
+    <string name="place_18_time">06:00 AM - 08:00 PM</string>
+    <string name="place_18_famous">Large jogging track and musical fountain</string>
+    <string name="place_18_details">JP Park, also known as Jayaprakash Narayan Park, is a vast public park in Mathikere that spans over 80 acres. It\'s a well-maintained and relatively uncrowded green space perfect for early-morning jogs or evening strolls. The pathways are wide, with designated areas for exercise, yoga, and kids\'s play.What sets JP Park apart is its musical fountain show in the evenings and well-maintained botanical zones. It\'s ideal for people looking for a quiet alternative to the more commercial Cubbon or Lalbagh. Families and fitness lovers enjoy its cleanliness and thoughtful layout.</string>
+
+    <string name="place_19_title">Turahalli Forest</string>
+    <string name="place_19_subtitle">Perfect for morning cycling or hiking near Kanakapura Road</string>
+    <string name="place_19_time">05:30 AM - 06:30 PM</string>
+    <string name="place_19_famous">Natural forest trails and hilltop views</string>
+    <string name="place_19_details">Turahalli Forest is a hidden gem located just off Kanakapura Road, popular among cyclists, nature lovers, and hikers. It\'s one of the few remaining forest patches within Bangalore city limits and offers rugged terrain for off-road biking and scenic hilltop views for photography.The forest trail is safe during early morning hours and provides a cool, breezy escape from urban chaos. You may spot peacocks, butterflies, and even the occasional monkey. It\'s a natural retreat for those seeking peace and adventure in one spot.</string>
+
+    <string name="place_20_title">Hebbal Lake Park</string>
+    <string name="place_20_subtitle">Beautiful sunrise views and bird watching</string>
+    <string name="place_20_time">06:00 AM - 07:00 PM</string>
+    <string name="place_20_famous">Migratory birds and lakefront walking</string>
+    <string name="place_20_details">Hebbal Lake Park is situated along the banks of one of Bangalore\'s oldest lakes. The park offers serene walking paths with benches overlooking the water, making it perfect for early morning walks. It\'s known for its peaceful ambiance and stunning sunrises.Birdwatchers frequent the park for sightings of pelicans, cormorants, kingfishers, and even migratory species. The combination of water, greenery, and bird calls creates a uniquely relaxing experience in the middle of a bustling city.</string>
+
+    <!-- Shopping Centers -->
+
+    <string name="place_21_title">Phoenix Marketcity</string>
+    <string name="place_21_subtitle">Large mall with international brands and food court</string>
+    <string name="place_21_time">10:00 AM - 10:00 PM</string>
+    <string name="place_21_famous">Luxury shopping, multiplex, and food court</string>
+    <string name="place_21_details">Phoenix Marketcity is one of Bangalore\'s largest and most popular malls, offering a premium shopping experience with brands from around the world. It\'s home to several luxury stores, a wide variety of international and Indian fashion brands, and a multiplex for movie lovers. The massive food court serves a range of cuisines to suit every taste.The mall is perfect for a day out with family or friends, with everything from clothing and electronics to home décor and accessories. It\'s also known for its regular events, exhibitions, and a lively ambiance, making it a favorite weekend hangout spot.</string>
+
+    <string name="place_22_title">Orion Mall</string>
+    <string name="place_22_subtitle">Lake-view mall with multiplex and gaming zone</string>
+    <string name="place_22_time">10:00 AM - 10:00 PM</string>
+    <string name="place_22_famous">Lake views, shopping, and entertainment</string>
+    <string name="place_22_details">Orion Mall is an upscale shopping center located near the picturesque Iskcon Temple. It offers a beautiful view of the surrounding lake and features a wide range of stores, from fashion outlets to home decor shops. The mall also includes a gaming zone, an international food court, and a large multiplex, making it a great family destination.The ambiance is chic and modern, with a focus on premium brands. Orion Mall often hosts exhibitions and cultural events, adding to its appeal as a hub for entertainment and leisure. Whether you\'re shopping or just enjoying a peaceful day by the lake, Orion provides an excellent experience.</string>
+
+    <string name="place_23_title">Garuda Mall</string>
+    <string name="place_23_subtitle">Centrally located and lively with entertainment</string>
+    <string name="place_23_time">10:00 AM - 10:00 PM</string>
+    <string name="place_23_famous">Movie theater, bowling alley, and shopping</string>
+    <string name="place_23_details">Garuda Mall is centrally located in Bangalore and known for its energetic vibe. It\'s a bustling shopping center with multiple stores offering fashion, electronics, and accessories. The mall also boasts a popular movie theater, bowling alley, and a number of cafes and fast-food outlets, making it ideal for entertainment and socializing.The lively atmosphere, along with its accessibility and diverse range of products and activities, make Garuda Mall one of the go-to places for young shoppers and families alike. You\'ll always find something happening, whether it\'s a sale, event, or casual hangout.</string>
+
+    <string name="place_24_title">Commercial Street</string>
+    <string name="place_24_subtitle">Great for budget shopping and street bargains</string>
+    <string name="place_24_time">10:00 AM - 09:00 PM</string>
+    <string name="place_24_famous">Street shopping for fashion and accessories</string>
+    <string name="place_24_details">Commercial Street is one of the most famous shopping streets in Bangalore, known for its bustling atmosphere and a vast array of budget-friendly shopping options. From trendy fashion boutiques to accessory stores, it offers everything you could want at affordable prices. The street is always busy with shoppers hunting for great deals on clothing, shoes, jewelry, and electronics.The charm of Commercial Street lies in the sheer variety and its street-market vibe. Whether you\'re hunting for a bargain or just window shopping, it offers an authentic local shopping experience with plenty of street food to keep you fueled for your shopping spree.</string>
+
+    <string name="place_25_title">UB City</string>
+    <string name="place_25_subtitle">Luxury shopping and fine dining experience</string>
+    <string name="place_25_time">10:00 AM - 10:00 PM</string>
+    <string name="place_25_famous">High-end luxury shopping and fine dining</string>
+    <string name="place_25_details">UB City is Bangalore\'s luxury shopping mall, home to international brands, fine dining, and upscale amenities. The mall is a prime spot for those seeking high-end fashion, jewelry, and electronics, offering a range of exclusive stores and designer outlets. The well-designed layout and beautiful architecture add to the elegance of the place.It\'s not just about shopping – UB City is also known for its world-class dining experiences. Several fine-dining restaurants and cafes line the space, providing gourmet meals in a chic, upscale setting. Whether you\'re looking to splurge or just experience luxury, UB City offers the ultimate high-end lifestyle experience.</string>
+
+
+</resources>

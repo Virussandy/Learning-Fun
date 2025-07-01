@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161152076181",
+    "firebase_url": "https://ozonic-offnbuy-default-rtdb.firebaseio.com",
+    "project_id": "ozonic-offnbuy",
+    "storage_bucket": "ozonic-offnbuy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161152076181:android:e91b60e72266e43f110e9c",
+        "android_client_info": {
+          "package_name": "com.mollosradix.deals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUbydk54_3OXzWIRjRO0dL3dcCrvSwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
